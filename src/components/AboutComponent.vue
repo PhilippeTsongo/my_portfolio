@@ -6,11 +6,13 @@
         </div>
         
         <div class="w-full md:w-2/4 left-0 mt-14 pb-10 md:pb-0">
-            <p class="uppercase text-yellow-500 font-bold text-">About Me!</p>
+            <p class="uppercase text-yellow-500 font-bold text-">About Me</p>
             
             <p class="mt-10 text-gray-400">
-                Highly skilled Full Stack Developer with enough experience to design and implement robust web applications
-                Php, Php Laravel, Django, javaScript, Node js, Vue js, React Tailwind css, css, html, bootstrap, Git, MVC, Database architecture, Api design, Api integration and testing
+                I am a Full-stack Software Engineer with almost 4 years of experience building, implementing and deploying 
+                robust web applications,
+                I have contributed to the development of successful projects as backend and frontend developer using various programming
+                languages such as Python, Php, and javascript and frameworks such as React js, Vue js, Django, Laravel, and node js.
             </p>
 
             <div class="mt-10">
@@ -26,7 +28,7 @@
                 <div class="flex justify-between mt-8 border-b border-gray-400 pb-2">
                     <div class="">Eamil: </div> <div>philippetsongo90@gmail.com</div>
                 </div>
-                <div class="flex justify-between mt-8 border-b border-gray-400 pb-2">
+                <div class="flex justify-between mt-8 pb-2">
                     <div class="">Phone: </div> <div>+250 783 793 095</div>
                 </div>
             </div>

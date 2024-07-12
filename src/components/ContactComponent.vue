@@ -1,5 +1,5 @@
 <template>
-    <div class="px-8 md:px-24 pt-24 bg-black pb-20 ransition-opacity duration-1000 ease-in-out transform translate-y-4 opacity-0 animate-fadeIn">
+    <div class="px-4 md:px-24 pt-24 bg-black pb-20 ransition-opacity duration-1000 ease-in-out transform translate-y-4 opacity-0 animate-fadeIn">
         <div class="text-center w-full">
             <div class="relative h-24 text-center w-full z-10">
                 <h1 class="absolute z-50 text-center w-full text-white font-bold text-4xl">Contact</h1>
@@ -23,7 +23,7 @@
 
                 <div class="mt-14">
                     <div class="flex">
-                        <a href="https://github.com/philippetsongo" target="_blank"class="mx-auto w-24 h-24 px-8 py-8 rounded-full bg-gray-200 border-4 border-yellow-500"> <font-awesome-icon icon="code"/></a>
+                        <a href="https://github.com/philippetsongo" target="_blank"class="mx-auto w-24 h-24 px-8 py-8 rounded-full bg-gray-200 border-4 border-yellow-500"> <i class="fa fa-github"></i> </a>
                     </div>
                     <div class="text-gray-400 mt-2">
                         <a href="https://github.com/philippetsongo" target="_blank">github</a>
@@ -41,17 +41,9 @@
                 
                 <div class="mt-14">
                     <div class="flex">
-                        <div class="mx-auto w-24 h-24 px-8 py-8  rounded-full bg-gray-200 border-4 border-yellow-500"> <font-awesome-icon icon="location"/></div>
+                        <div class="mx-auto w-24 h-24  px-8 py-8  rounded-full bg-gray-200 border-4 border-yellow-500"> <font-awesome-icon icon="phone"/></div>
                     </div>
-                    <div class="text-gray-400 mt-2">Rwanda Kigali Nyarungenge, KN 123 Str</div>
-                </div>
-
-                <div class="mt-14">
-                    <div class="flex">
-                        <div class="mx-auto w-24 h-24 px-8 py-8  rounded-full bg-gray-200 border-4 border-yellow-500"> <font-awesome-icon icon="phone"/></div>
-                    </div>
-                    <div class="text-gray-400 mt-2">Phone number: +250 783 793 095</div>
-
+                    <div class="text-gray-400 mt-2">+250 783 793 095</div>
                 </div>
 
 
@@ -59,8 +51,14 @@
                     <div class="flex">
                         <div class="mx-auto w-24 h-24 px-8 py-8  rounded-full bg-gray-200 border-4 border-yellow-500"> <font-awesome-icon icon="envelope"/></div>
                     </div>
-                    <div class="text-gray-400 mt-2">Email: philippetsongox90@gmail.com</div>
+                    <div class="text-gray-400 mt-2">philippetsongo90@gmail.com</div>
+                </div>
 
+                <div class="mt-14">
+                    <div class="flex">
+                        <div class="mx-auto w-24 h-24  px-8 py-8  rounded-full bg-gray-200 border-4 border-yellow-500"> <font-awesome-icon icon="location"/></div>
+                    </div>
+                    <div class="text-gray-400 mt-2">Rwanda Kigali, KN 123 Str</div>
                 </div>
 
             </div>
@@ -76,6 +74,7 @@
                 <button class="bg-yellow-500 text-white px-2 py-3 rounded-md mt-5 w-48 border-l-4 border-white"> <font-awesome-icon icon="send"/> Submit</button>
             </form>
         </div>
+        
     </div>
 </template>
 

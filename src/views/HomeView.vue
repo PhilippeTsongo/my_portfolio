@@ -30,7 +30,7 @@
     <ProjectComponent></ProjectComponent>
     <SkillComponent></SkillComponent>
     <ContactComponent></ContactComponent>
-
+    <FooterComponent></FooterComponent>
 
 </template>
 
@@ -42,6 +42,7 @@ import ExperienceComponent from '../components/ExperienceComponent.vue'
 import ProjectComponent from '../components/ProjectComponent.vue'
 import SkillComponent from '../components/SkillComponent.vue'
 import ContactComponent from '../components/ContactComponent.vue'
+import FooterComponent from '../components/FooterComponent.vue'
 
 
 
@@ -55,7 +56,8 @@ export default {
         ExperienceComponent,
         ProjectComponent,
         SkillComponent,
-        ContactComponent
+        ContactComponent,
+        FooterComponent,
     }
 
 
