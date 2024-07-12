@@ -14,7 +14,7 @@
                 
                 <div class="mt-14">
                     <a href="https://www.linkedin.com/in/philippe-tsongo-701838228" target="_blank" class="flex">
-                        <div class="mx-auto w-24 h-24 px-8 py-8  rounded-full bg-gray-200"> <font-awesome-icon icon="linkedin"/>In</div>
+                        <div class="mx-auto w-24 h-24 px-8 py-8  rounded-full bg-gray-200 border-4 border-yellow-500"> <font-awesome-icon icon="linkedin"/>In</div>
                     </a>
                     <div class="text-gray-400 mt-2">
                         <a href="https://www.linkedin.com/in/philippe-tsongo-701838228" target="_blank">Linkedin</a>
@@ -23,7 +23,7 @@
 
                 <div class="mt-14">
                     <div class="flex">
-                        <a href="https://github.com/philippetsongo" target="_blank"class="mx-auto w-24 h-24 px-8 py-8  rounded-full bg-gray-200"> <font-awesome-icon icon="code"/></a>
+                        <a href="https://github.com/philippetsongo" target="_blank"class="mx-auto w-24 h-24 px-8 py-8 rounded-full bg-gray-200 border-4 border-yellow-500"> <font-awesome-icon icon="code"/></a>
                     </div>
                     <div class="text-gray-400 mt-2">
                         <a href="https://github.com/philippetsongo" target="_blank">github</a>
@@ -32,7 +32,7 @@
 
                 <div class="mt-14">
                     <div class="flex">
-                        <div class="mx-auto w-24 h-24 px-8 py-8  rounded-full bg-gray-200"> <font-awesome-icon icon="globe"/></div>
+                        <div class="mx-auto w-24 h-24 px-8 py-8  rounded-full bg-gray-200 border-4 border-yellow-500"> <font-awesome-icon icon="globe"/></div>
                     </div>
                     <div class="text-gray-400 mt-2">
                         <a href="#" target="_blank">Web site</a>
@@ -41,16 +41,15 @@
                 
                 <div class="mt-14">
                     <div class="flex">
-                        <div class="mx-auto w-24 h-24 px-8 py-8  rounded-full bg-gray-200"> <font-awesome-icon icon="location"/></div>
+                        <div class="mx-auto w-24 h-24 px-8 py-8  rounded-full bg-gray-200 border-4 border-yellow-500"> <font-awesome-icon icon="location"/></div>
                     </div>
                     <div class="text-gray-400 mt-2">Rwanda Kigali Nyarungenge, KN 123 Str</div>
                 </div>
 
                 <div class="mt-14">
                     <div class="flex">
-                        <div class="mx-auto w-24 h-24 px-8 py-8  rounded-full bg-gray-200"> <font-awesome-icon icon="phone"/></div>
+                        <div class="mx-auto w-24 h-24 px-8 py-8  rounded-full bg-gray-200 border-4 border-yellow-500"> <font-awesome-icon icon="phone"/></div>
                     </div>
-                    <div class="text-white uppercase mt-5">Phone Number</div>
                     <div class="text-gray-400 mt-2">Phone number: +250 783 793 095</div>
 
                 </div>
@@ -58,13 +57,24 @@
 
                 <div class="mt-14">
                     <div class="flex">
-                        <div class="mx-auto w-24 h-24 px-8 py-8  rounded-full bg-gray-200"> <font-awesome-icon icon="envelope"/></div>
+                        <div class="mx-auto w-24 h-24 px-8 py-8  rounded-full bg-gray-200 border-4 border-yellow-500"> <font-awesome-icon icon="envelope"/></div>
                     </div>
                     <div class="text-gray-400 mt-2">Email: philippetsongox90@gmail.com</div>
 
                 </div>
 
             </div>
+        </div>
+
+        <div class="mt-24 border-t-2 border-white">
+            <div class="text-gray-300 mt-14" >Leave a message here to reach out</div>
+            <form action="" class="mt-14">
+                <input type="text" class="w-full rounded-md py-4 px-2 mt-5 border-l-4 border-yellow-500" placeholder="Full names">
+                <input type="email" class="w-full block rounded-md py-4 px-2 border-l-4 border-yellow-500 mt-5" placeholder="Email">
+                <textarea class="w-full block rounded-md h-44 py-3 px-3 border-l-4 border-yellow-500 mt-5" placeholder="Your message"></textarea>
+
+                <button class="bg-yellow-500 text-white px-2 py-3 rounded-md mt-5 w-48 border-l-4 border-white"> <font-awesome-icon icon="send"/> Submit</button>
+            </form>
         </div>
     </div>
 </template>
