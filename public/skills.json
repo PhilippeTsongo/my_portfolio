@@ -1,0 +1,31 @@
+[
+    {
+        "skillName": "Php",
+        "skillLevel": "80" 
+    },
+    {
+        "skillName": "Php Laravel",
+        "skillLevel": "80" 
+    },
+    {
+        "skillName": "Python Django",
+        "skillLevel": "70" 
+    },
+    {
+        "skillName": "Javascript",
+        "skillLevel": "75" 
+    },
+    {
+        "skillName": "Vue Js",
+        "skillLevel": "80" 
+    },
+    {
+        "skillName": "React Js",
+        "skillLevel": "70" 
+    },
+    {
+        "skillName": "Ajax Jquery",
+        "skillLevel": "73" 
+    }
+    
+]
