@@ -32,7 +32,7 @@
         </div>
         <div class="mt-14 rounded-md border border-gray-200 px-10 py-10 mb-82">
             
-            <h3>Languages & Frameworks</h3>
+            <h3>Programming Languages & Frameworks</h3>
 
             <div class="md:grid md:grid-cols-2 md:justify-between mt-10 gap-10">
                 
@@ -40,6 +40,7 @@
                     v-for="(skill, index) in skills" :key="index" 
                     :skillName="skill.skillName"
                     :skillLevel="skill.skillLevel"
+                    :skillImage="skill.skillImage"
                 />
                 
             </div>

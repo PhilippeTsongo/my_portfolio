@@ -1,31 +1,33 @@
 [
     {
         "skillName": "Php",
-        "skillLevel": "80" 
+        "skillLevel": "80",
+        "skillImage": "php.png" 
     },
     {
         "skillName": "Php Laravel",
-        "skillLevel": "80" 
+        "skillLevel": "80",
+        "skillImage": "laravel.png"  
     },
     {
         "skillName": "Python Django",
-        "skillLevel": "70" 
+        "skillLevel": "70",
+        "skillImage": "python.png"  
     },
     {
         "skillName": "Javascript",
-        "skillLevel": "75" 
+        "skillLevel": "75",
+        "skillImage": "js.png"  
     },
     {
         "skillName": "Vue Js",
-        "skillLevel": "80" 
+        "skillLevel": "80",
+        "skillImage": "vuejs.png"  
     },
     {
         "skillName": "React Js",
-        "skillLevel": "70" 
-    },
-    {
-        "skillName": "Ajax Jquery",
-        "skillLevel": "73" 
+        "skillLevel": "70",
+        "skillImage": "reactjs.png" 
     }
     
 ]
