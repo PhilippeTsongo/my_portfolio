@@ -30,6 +30,7 @@
     <ProjectComponent></ProjectComponent>
     <SkillComponent></SkillComponent>
 
+    <EducationComponent></EducationComponent>
     <ContactComponent></ContactComponent>
 
     <FooterComponent></FooterComponent>
@@ -45,6 +46,7 @@ import ProjectComponent from '../components/ProjectComponent.vue'
 import SkillComponent from '../components/SkillComponent.vue'
 import ContactComponent from '../components/ContactComponent.vue'
 import FooterComponent from '../components/FooterComponent.vue'
+import EducationComponent from '@/components/EducationComponent.vue'
 
 
 export default {
@@ -57,6 +59,7 @@ export default {
         SkillComponent,
         ContactComponent,
         FooterComponent,
+        EducationComponent
     }
 
 

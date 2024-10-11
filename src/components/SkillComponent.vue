@@ -2,7 +2,7 @@
     
     <div class="px-8 md:px-24 pt-24 mb-20 transition-opacity duration-2000 ease-out transform translate-y-4 opacity-0 animate-fadeIn">
       
-        <div class="text-center w-full">
+        <div class="text-center w-full mt-10">
             <div class="relative h-24 text-center w-full z-10">
                 <h1 class="absolute z-50 text-center w-full text-black font-bold text-4xl">Skills</h1>
                 <h1 class="absolute z-10 text-center w-full mt-2 text-[#878684] font-bold text-6xl">Skills</h1>
@@ -10,7 +10,7 @@
 
             <p class="mt-10 text-gray-700">
                 Highly skilled Full Stack Developer with enough experience to design and implement robust web applications
-                Php, Php Laravel, Django, javaScript, Node js, Vue js, React Tailwind css, css, html, bootstrap, Git, MVC, Database architecture, Api design, Api integration and testing
+                Php, Php Laravel, Python, Django, Java, Spring Boot, JavaScript, Node js, Vue js, React js, Tailwind css, Css, Html, Bootstrap, Git, MVC, Database architecture(PostgreSql, MySql), Api design, Api integration and testing
             </p>
         </div>
 
@@ -46,6 +46,21 @@
             </div>
             
         </div>
+
+        <!-- <div class="mt-14 rounded-md border border-gray-200 px-10 py-10 mb-82">
+            <h3>Tools</h3>
+            
+            <div class="flex justify-between px-5 py-5 ">
+                <div>
+                    <h3>
+                
+                    </h3>
+                </div>
+
+            </div>
+        
+            
+        </div> -->
     </div>
 </template>
 

@@ -28,6 +28,20 @@
         "skillName": "React Js",
         "skillLevel": "70",
         "skillImage": "reactjs.png" 
+    },
+    {
+        "skillName": "Nest Js",
+        "skillLevel": "75",
+        "skillImage": "nestjs.png" 
+    },
+    {
+        "skillName": "Node Js",
+        "skillLevel": "75",
+        "skillImage": "nodejs.png" 
+    },
+    {
+        "skillName": "Spring Boot",
+        "skillLevel": "74",
+        "skillImage": "spring-boot.png" 
     }
-    
 ]

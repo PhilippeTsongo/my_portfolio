@@ -37,18 +37,25 @@
 
                         <h2 class="mt-5">Social media</h2>
                         <div class="flex gap-10 mt-5">
-                            <a class="bg-gray-500 rounded-full px-3 py-2" href="https://www.linkedin.com/in/philippe-tsongo-701838228" target="_blank"> <i class="fa fa-linkedin"></i></a>
-                            <a class="bg-gray-500 rounded-full px-3 py-2" href="https://www.github.com/philippetsongo" target="_blank"> <i class="fa fa-github"> </i></a>
-                            <a class="bg-gray-500 rounded-full px-3 py-2" href="https://www.instagram.com/philippetsongo/" target="_blank"> <i class="fa fa-instagram"></i> </a>
+                            <div class="bg-white text-center rounded-full w-7 h-7 ">
+                                <a class="mt-3" href="https://www.linkedin.com/in/philippe-tsongo-701838228" target="_blank"> <i class="fa fa-linkedin"></i></a>
+                            </div>
+                            <div class="bg-white text-center rounded-full w-7 h-7 ">
+                                <a class="mt-3" href="https://www.github.com/philippetsongo" target="_blank"> <i class="fa fa-github"> </i></a>
+                            </div>
+                            <div class="bg-white text-center rounded-full w-7 h-7 ">
+                                <a class="mt-3" href="https://www.instagram.com/philippetsongo/" target="_blank"> <i class="fa fa-instagram"></i> </a>
+                            </div>    
                         </div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <p class="mt-10 text-center py-10 pb-10 text-gray-600">Copy right 2024 Philippe tsongo Tahakava</p>
     </div>
-
+    <div>
+        <p class="mt-5 text-center py-5 pb-10 bg-white text-gray-600">Copy right 2024 Philippe tsongo Tahakava</p>
+    </div>
 </template>
 
 <script>

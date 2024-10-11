@@ -8,7 +8,9 @@
             </div>
             
             <p class="text-[#878684] mt-5">
-                I have got to contribute both as back end and front end developer amazing project that allowed me to bridge the gap between theory and practice    
+                As an experienced full-stack developer, I have played a key role in delivering successful projects 
+                that provide impactful solutions to real-world problems, utilizing programming languages such as Python,
+                PHP, Java, and JavaScript, along with frameworks like React.js, Vue.js, Django, Laravel, Nest.js, Node.js and Spring Boot.
             </p>
         </div>
 

@@ -14,7 +14,7 @@
                 
                 <div class="mt-14">
                     <a href="https://www.linkedin.com/in/philippe-tsongo-701838228" target="_blank" class="flex">
-                        <div class="mx-auto w-24 h-24 px-8 py-8  rounded-full bg-gray-200 border-4 border-yellow-500"> <font-awesome-icon icon="linkedin"/>In</div>
+                        <div class="mx-auto w-24 h-24 px-8 py-8  rounded-full bg-gray-200 border-4 border-yellow-500">In</div>
                     </a>
                     <div class="text-gray-400 mt-2">
                         <a href="https://www.linkedin.com/in/philippe-tsongo-701838228" target="_blank">Linkedin</a>
@@ -71,7 +71,7 @@
                 <input type="email" class="w-full block rounded-md py-4 px-2 border-l-4 border-yellow-500 mt-5" placeholder="Email">
                 <textarea class="w-full block rounded-md h-44 py-3 px-3 border-l-4 border-yellow-500 mt-5" placeholder="Your message"></textarea>
 
-                <button class="bg-yellow-500 text-white px-2 py-3 rounded-md mt-5 w-48 border-l-4 border-white"> <font-awesome-icon icon="send"/> Submit</button>
+                <button class="bg-yellow-500 text-white px-2 py-3 rounded-md mt-5 w-48 border-l-4 border-white"> Submit</button>
             </form>
         </div>
         
