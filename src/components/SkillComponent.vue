@@ -15,22 +15,22 @@
         </div>
 
         <div class="md:grid md:grid-cols-3 md:justify-between gap-5 mt-14">
-            <div class="py-4 px-7 bg-black rounded-md text-center py-20 border-l-4 border-yellow-500 hover:border-0">
+            <div class="py-4 px-7 bg-black rounded-md text-center py-20 border-l-4 border-yellow-500 hover:border-l-4 hover:border-[black]">
                 <font-awesome-icon icon="code" class="text-white" />
-                <h2 class="font-bold text-white mt-2 pb-5 hover:text-yellow-500 hover:border-b-2 hover:border-yellow-500 hover:cursor-pointer">Web Design</h2>
+                <h2 class="font-bold text-white mt-2 border-b-2 border-[black] pb-5 hover:text-yellow-500 hover:border-b-2 hover:border-yellow-500 hover:cursor-pointer">Web Design</h2>
             </div>
 
-            <div class="py-4 px-7 mt-5 md:mt-0 bg-black rounded-md text-center py-20 border-l-4 border-yellow-500 hover:border-0">
+            <div class="py-4 px-7 mt-5 md:mt-0 bg-black rounded-md text-center py-20 border-l-4 border-yellow-500 hover:border-l-4 hover:border-[black]">
                 <font-awesome-icon icon="code" class="text-white" />
                 <h2 class="font-bold text-white mt-2 pb-5 hover:text-yellow-500 hover:border-b-2 hover:border-yellow-500 hover:cursor-pointer">Front Development</h2>
             </div>
 
-            <div class="py-4 px-7 mt-5 md:mt-0 bg-black rounded-md text-center py-20 border-l-4 border-yellow-500 hover:border-0">
+            <div class="py-4 px-7 mt-5 md:mt-0 bg-black rounded-md text-center py-20 border-l-4 border-yellow-500 hover:border-l-4 hover:border-[black]">
                 <font-awesome-icon icon="code" class="text-white" />
                 <h2 class="font-bold text-white mt-2 pb-5 hover:text-yellow-500 hover:border-b-2 hover:border-yellow-500 hover:cursor-pointer">Back end Development</h2>
             </div>
         </div>
-        <div class="mt-14 rounded-md border border-gray-200 px-10 py-10 mb-82">
+        <div class="mt-14 rounded-md border border-gray-200 px-5 py-5 md:px-10 md:py-10 mb-82">
             
             <h3>Programming Languages & Frameworks</h3>
 
@@ -41,6 +41,7 @@
                     :skillName="skill.skillName"
                     :skillLevel="skill.skillLevel"
                     :skillImage="skill.skillImage"
+                    class="mt-5"
                 />
                 
             </div>
