@@ -2,46 +2,91 @@
     {
         "skillName": "Php",
         "skillLevel": "80",
-        "skillImage": "php.png" 
+        "skillImage": "php.png",
+        "category": "Backend"
     },
     {
         "skillName": "Php Laravel",
         "skillLevel": "80",
-        "skillImage": "laravel.png"  
+        "skillImage": "laravel.png",
+        "category": "Backend"
     },
     {
         "skillName": "Python Django",
         "skillLevel": "70",
-        "skillImage": "python.png"  
+        "skillImage": "python.png",
+        "category": "Backend"
     },
     {
         "skillName": "Javascript",
         "skillLevel": "75",
-        "skillImage": "js.png"  
+        "skillImage": "js.png",
+        "category": "Frontend"
     },
     {
         "skillName": "Vue Js",
         "skillLevel": "80",
-        "skillImage": "vuejs.png"  
+        "skillImage": "vuejs.png",
+        "category": "Frontend"
     },
     {
         "skillName": "React Js",
         "skillLevel": "70",
-        "skillImage": "reactjs.png" 
+        "skillImage": "reactjs.png",
+        "category": "Frontend"
     },
     {
         "skillName": "Nest Js",
         "skillLevel": "75",
-        "skillImage": "nestjs.png" 
+        "skillImage": "nestjs.png",
+        "category": "Backend"
     },
     {
         "skillName": "Node Js",
         "skillLevel": "75",
-        "skillImage": "nodejs.png" 
+        "skillImage": "nodejs.png",
+        "category": "Backend"
     },
     {
         "skillName": "Spring Boot",
         "skillLevel": "74",
-        "skillImage": "spring-boot.png" 
+        "skillImage": "spring-boot.png",
+        "category": "Backend"
+    },
+    {
+        "skillName": "Mongo DB",
+        "skillLevel": "74",
+        "skillImage": "mongo-db.png",
+        "category": "Database"
+    },
+    {
+        "skillName": "MySql",
+        "skillLevel": "75",
+        "skillImage": "mysql.png",
+        "category": "Database"
+    },
+    {
+        "skillName": "Postgresql",
+        "skillLevel": "77",
+        "skillImage": "postgressql.png",
+        "category": "Database"
+    },
+    {
+        "skillName": "Html",
+        "skillLevel": "80",
+        "skillImage": "html.png",
+        "category": "Frontend"
+    },
+    {
+        "skillName": "CSS",
+        "skillLevel": "78",
+        "skillImage": "css.png",
+        "category": "Frontend"
+    },
+    {
+        "skillName": "Tailwind Css",
+        "skillLevel": "82",
+        "skillImage": "tailwindcss.png",
+        "category": "Frontend"
     }
 ]

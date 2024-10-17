@@ -73,8 +73,8 @@
             </div>
             <div class="md:w-1/2 mt-10 md:mt-0">
                 <form action="" class="">
-                    <input type="text" class="w-full rounded-md py-4 px-2 border-l-4 border-yellow-500" placeholder="Full names">
-                    <input type="email" class="w-full block rounded-md py-4 px-2 border-l-4 border-yellow-500 mt-5" placeholder="Email">
+                    <input type="text" class="w-full rounded-md py-3 px-2 border-l-4 border-yellow-500" placeholder="Full names">
+                    <input type="email" class="w-full block rounded-md py-3 px-2 border-l-4 border-yellow-500 mt-5" placeholder="Email">
                     <textarea class="w-full block rounded-md h-44 py-3 px-3 border-l-4 border-yellow-500 mt-5" placeholder="Your message"></textarea>
 
                     <button class="bg-yellow-500 text-white px-2 py-3 rounded-md mt-5 w-full border-l-4 border-white"> Submit</button>

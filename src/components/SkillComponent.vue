@@ -1,6 +1,6 @@
 <template>
     
-    <div class="px-8 md:px-24 pt-24 mb-20 transition-opacity duration-2000 ease-out transform translate-y-4 opacity-0 animate-fadeIn">
+    <div class="px-5 md:px-24 pt-24 mb-20 transition-opacity duration-2000 ease-out transform translate-y-4 opacity-0 animate-fadeIn">
       
         <div class="text-center w-full mt-10">
             <div class="relative h-24 text-center w-full z-10">
@@ -34,7 +34,22 @@
             
             <h3>Programming Languages & Frameworks</h3>
 
-            <div class="md:grid md:grid-cols-2 md:justify-between mt-10 gap-10">
+            <div class="border border-gray-200 mt-5 md:mt-10 rounded-md flex justify-between">
+                <div class="border-l-4 border-yellow-500 rounded-l-md pr-10 w-1/3 md:text-center border-r py-5 hover:bg-yellow-500 hover:text-white hover:cursor-pointer hover:rounded-l-md"
+                    @click="fetchSkills('Frontend')">
+                    <span class="ml-5">Frontend</span>
+                </div>
+                <div class="pr-10 w-1/3 md:text-center border-r border-yellow-500 py-5 hover:bg-yellow-500 hover:text-white hover:cursor-pointer"
+                    @click="fetchSkills('Backend')">
+                    <span class="ml-5">Backend</span>
+                </div>
+                <div class="border-r-4 border-yellow-500 rounded-r-md py-5 w-1/3 md:text-center py-5 hover:bg-yellow-500 hover:text-white hover:cursor-pointer hover:rounded-r-md"
+                    @click="fetchSkills('Database')">
+                    <span class="ml-5">Database</span>
+                </div>
+            </div>
+
+            <div class="md:grid md:grid-cols-3 md:justify-between gap-5">
                 
                 <SkillListComponent 
                     v-for="(skill, index) in skills" :key="index" 
@@ -48,20 +63,6 @@
             
         </div>
 
-        <!-- <div class="mt-14 rounded-md border border-gray-200 px-10 py-10 mb-82">
-            <h3>Tools</h3>
-            
-            <div class="flex justify-between px-5 py-5 ">
-                <div>
-                    <h3>
-                
-                    </h3>
-                </div>
-
-            </div>
-        
-            
-        </div> -->
     </div>
 </template>
 
@@ -86,11 +87,19 @@ import SkillListComponent from './SkillListComponent.vue';
         },
 
         methods:{
-            fetchSkills(){
+            fetchSkills(category){
+
                 fetch('skills.json')
                 .then((response) =>response.json())
                 .then((data) => {
-                    this.skills = data
+                    if(category){
+                        const filteredSkills = data.filter(
+                            filteredSkill => filteredSkill.category === category
+                        );
+                        this.skills = filteredSkills;
+                    }else{
+                        this.skills = data;
+                    }
                 })
                 .catch(error=>{
                     console.log(error)

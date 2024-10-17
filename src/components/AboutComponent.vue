@@ -1,6 +1,6 @@
 <template>
     
-    <div class="md:flex md:justify-between px-8 md:px-24 pt-24 bg-black text-white ransition-opacity duration-3000 ease-in transform translate-y-4 opacity-0 animate-fadeIn">
+    <div class="md:flex md:justify-between px-5 md:px-24 md:pt-24 bg-black text-white ransition-opacity duration-3000 ease-in transform translate-y-4 opacity-0 animate-fadeIn">
         <div class="w-full md:w-2/4 mt-14 md:0"> 
             <img src="../../public/image.png" class="grayscale hover:filter hover:grayscale-0 transition duration-500" alt="Philippe Tsongo Tahakava">
         </div>

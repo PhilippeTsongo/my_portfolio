@@ -1,6 +1,6 @@
 <template>
     
-    <div class="flex justify-between bg-gray-100 rounded-md py-5 px-5">
+    <div class="flex justify-between bg-gray-100 rounded-md py-3 px-3">
 
         <div class="w-1/3">
             <div class="">
@@ -11,7 +11,7 @@
         <div class="w-2/3">
             <div class="flex justify-between">
                 <div>{{ skillName }}</div>
-                <div class="bg-yellow-100 ml-5 h-6 text-yellow-500 px-2 text-center rounded-full"> {{skillLevel}}/100</div>
+                <div class="bg-yellow-100 h-6 text-yellow-500 px-2 text-center rounded-full"> {{skillLevel}}/100</div>
             </div>
             <div class="w-full bg-gray-200 rounded-full h-2.5">
                 <div class="rounded-full mt-5 h-2.5 bg-gray-300 flex justify-center items-center" :style="{ width: skillLevel + '%'}">

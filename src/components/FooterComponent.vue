@@ -1,8 +1,8 @@
 <template>
-    <div class="w-full bg-black text-white py-8 px-8 md:px-24">
+    <div class="w-full bg-black text-white py-8 px-5 md:px-24">
         <div class="md:grid grid-cols-3 gap-24 w-full">
             <div class="">
-                <h2 class="font-bold pt-10 md:pt-0">About</h2>
+                <h2 class="font-bold pt-5 md:pt-0">About</h2>
                 <p class="mt-10 text-gray-400">I am a Full-stack Software Engineer with almost 4 years of experience building, implementing and deploying 
                     robust web applications,
                     I have contributed to the development of successful projects as backend and frontend developer using various programming

@@ -1,6 +1,6 @@
 <template>
     
-    <div class="px-8 md:px-24 pt-24 pb-20 ransition-opacity duration-2000 ease-out transform translate-y-4 opacity-0 animate-fadeIn">
+    <div class="px-5 md:px-24 pt-24 pb-20 ransition-opacity duration-2000 ease-out transform translate-y-4 opacity-0 animate-fadeIn">
         <div class="text-center w-full">
             <div class="relative h-24 text-center w-full z-10">
                 <h1 class="absolute z-50 text-center w-full text-black font-bold text-4xl">Experience</h1>
