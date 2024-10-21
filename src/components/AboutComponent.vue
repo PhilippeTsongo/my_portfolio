@@ -34,7 +34,7 @@
             </div>
             <div class="flex mt-14">
                 <div class="bg-yellow-500 text-white px-3 py-2 rounded-full w-36 text-center">
-                    <a class=""  ><font-awesome-icon icon="download"/> Download CV </a>
+                    <a class="" href="https://drive.google.com/file/d/1slbrGJMNzr64AKAtLLtGHVKa__KObCv8/view?usp=sharing" ><font-awesome-icon icon="download"/> Download CV </a>
                 </div>
             </div>
         </div>
