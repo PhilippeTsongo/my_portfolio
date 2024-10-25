@@ -26,15 +26,15 @@
                     <div class="">Address: </div> <div>Rwanda kigali KN 123 Str</div>
                 </div>
                 <div class="flex justify-between mt-8 border-b border-gray-400 pb-2">
-                    <div class="">Eamil: </div> <div>philippetsongo90@gmail.com</div>
+                    <div class="">Email: </div> <div>philippetsongo90@gmail.com</div>
                 </div>
-                <div class="flex justify-between mt-8 pb-2">
+                <a href="tel:+250783793095" target="_blank" class="flex justify-between mt-8 pb-2">
                     <div class="">Phone: </div> <div>+250 783 793 095</div>
-                </div>
+                </a>
             </div>
-            <div class="flex mt-14">
+            <div class="mt-14">
                 <div class="bg-yellow-500 text-white px-3 py-2 rounded-full w-36 text-center">
-                    <a class="" href="https://drive.google.com/file/d/1slbrGJMNzr64AKAtLLtGHVKa__KObCv8/view?usp=sharing" ><font-awesome-icon icon="download"/> Download CV </a>
+                    <a target="_blank" href="https://drive.google.com/file/d/1slbrGJMNzr64AKAtLLtGHVKa__KObCv8/view?usp=sharing" ><font-awesome-icon icon="download"/> Download CV </a>
                 </div>
             </div>
         </div>
@@ -43,7 +43,7 @@
 
 <script>
     export default {
-        name: "AboutCompoent",
+        name: "AboutComponent",
     }
 
 </script>
