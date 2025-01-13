@@ -1,11 +1,11 @@
 <template>
     
-    <div class="md:flex md:justify-between px-5 md:px-24 py-10 bg-black text-white ransition-opacity duration-3000 ease-in transform translate-y-4 opacity-0 animate-fadeIn">
-        <div class="w-full hidden md:inline md:w-2/4 md:0"> 
+    <div class="md:flex md:justify-between  px-5 md:px-24 py-10 bg-black text-white ransition-opacity duration-3000 ease-in transform translate-y-4 opacity-0 animate-fadeIn">
+        <div class="w-full hidden md:inline md:w-2/4 md:0 mt-24"> 
             <img src="../../public/image.png" class="grayscale hover:filter hover:grayscale-0 transition duration-500" alt="Philippe Tsongo Tahakava">
         </div>
         
-        <div class="w-full md:w-2/4 left-0 pb-10 md:pb-0">
+        <div class="w-full md:w-2/4 left-0 pb-10 md:pb-0 mt-24">
             <p class="uppercase text-yellow-500 mt-10 font-bold text-">About Me</p>
             
             <p class="mt-10 text-gray-400">
