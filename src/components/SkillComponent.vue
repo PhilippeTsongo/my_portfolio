@@ -10,24 +10,26 @@
 
             <p class="mt-10 text-gray-700">
                 Highly skilled Full Stack Developer with enough experience to design and implement robust web applications
-                Php, Php Laravel, Python, Django, Java, Spring Boot, JavaScript, Node js, Vue js, React js, Tailwind css, Css, Html, Bootstrap, Git, MVC, Database architecture(PostgreSql, MySql), Api design, Api integration and testing
+                <div class="text-yellow-500">
+                    Php, Php Laravel, Python, Django, Java, Spring Boot, JavaScript, Node js, Vue js, React js, Tailwind css, Css, Html, Bootstrap, MVC, Database architecture(PostgreSql, MySql), Api design, Api integration and testing, Git, AWS 
+                </div>
             </p>
         </div>
 
         <div class="md:grid md:grid-cols-3 md:justify-between gap-5 mt-14">
-            <div class="py-4 px-7 bg-black rounded-md text-center py-20 border-l-4 border-yellow-500 hover:border-l-4 hover:border-[black]">
+            <div class="py-4 px-7 bg-black rounded-md text-center  border-l-4 border-yellow-500 hover:border-l-4 hover:border-[black]">
                 <font-awesome-icon icon="code" class="text-white" />
                 <h2 class="font-bold text-white mt-2 border-b-2 border-[black] pb-5 hover:text-yellow-500 hover:border-b-2 hover:border-yellow-500 hover:cursor-pointer">Web Design</h2>
             </div>
 
-            <div class="py-4 px-7 mt-5 md:mt-0 bg-black rounded-md text-center py-20 border-l-4 border-yellow-500 hover:border-l-4 hover:border-[black]">
+            <div class="py-4 px-7 mt-5 md:mt-0 bg-black rounded-md text-center border-l-4 border-yellow-500 hover:border-l-4 hover:border-[black]">
                 <font-awesome-icon icon="code" class="text-white" />
-                <h2 class="font-bold text-white mt-2 pb-5 hover:text-yellow-500 hover:border-b-2 hover:border-yellow-500 hover:cursor-pointer">Front Development</h2>
+                <h2 class="font-bold text-white mt-2 pb-5 hover:text-yellow-500 hover:border-b-2 hover:border-yellow-500 hover:cursor-pointer">Frontend Development</h2>
             </div>
 
-            <div class="py-4 px-7 mt-5 md:mt-0 bg-black rounded-md text-center py-20 border-l-4 border-yellow-500 hover:border-l-4 hover:border-[black]">
+            <div class="py-4 px-7 mt-5 md:mt-0 bg-black rounded-md text-center border-l-4 border-yellow-500 hover:border-l-4 hover:border-[black]">
                 <font-awesome-icon icon="code" class="text-white" />
-                <h2 class="font-bold text-white mt-2 pb-5 hover:text-yellow-500 hover:border-b-2 hover:border-yellow-500 hover:cursor-pointer">Back end Development</h2>
+                <h2 class="font-bold text-white mt-2 pb-5 hover:text-yellow-500 hover:border-b-2 hover:border-yellow-500 hover:cursor-pointer">Backend Development</h2>
             </div>
         </div>
         <div class="mt-14 rounded-md border border-gray-200 px-5 py-5 md:px-10 md:py-10 mb-82">
@@ -43,7 +45,7 @@
                     @click="fetchSkills('Backend')">
                     <span class="ml-5">Backend</span>
                 </div>
-                <div class="border-r-4 border-yellow-500 rounded-r-md py-5 w-1/3 md:text-center py-5 hover:bg-yellow-500 hover:text-white hover:cursor-pointer hover:rounded-r-md"
+                <div class="border-r-4 border-yellow-500 rounded-r-md py-5 w-1/3 md:text-center hover:bg-yellow-500 hover:text-white hover:cursor-pointer hover:rounded-r-md"
                     @click="fetchSkills('Database')">
                     <span class="ml-5">Database</span>
                 </div>

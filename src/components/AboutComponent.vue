@@ -12,18 +12,18 @@
                 I am a Full-stack Software Engineer with almost 4 years of experience building, implementing and deploying 
                 robust web applications,
                 I have contributed to the development of successful projects as backend and frontend developer using various programming
-                languages such as Python, Php, and javascript and frameworks such as React js, Vue js, Django, Laravel, and node js.
+                languages such as Python, Php, Java, javascript and frameworks such as React js, Vue js, Django, Laravel, Nest js and Spring Boot.
             </p>
 
             <div class="mt-10">
                 <div class="flex justify-between mt-8 border-b border-gray-400 pb-2">
-                    <div class="">Names: </div> <div>Philippe Tsongo Tahakava</div>
+                    <div class="">Names: </div> <div>Philippe Tahakava Tsongo </div>
                 </div>
-                <div class="flex justify-between mt-8 border-b border-gray-400 pb-2">
+                <!-- <div class="flex justify-between mt-8 border-b border-gray-400 pb-2">
                     <div class="">Date of Birth: </div> <div>1999-11-23</div>
-                </div>
+                </div> -->
                 <div class="flex justify-between mt-8 border-b border-gray-400 pb-2">
-                    <div class="">Address: </div> <div>Rwanda kigali KN 123 Str</div>
+                    <div class="">Address: </div> <div>Rwanda Kigali KN 123 Str</div>
                 </div>
                 <div class="flex justify-between mt-8 border-b border-gray-400 pb-2">
                     <div class="">Email: </div> <div>philippetsongo90@gmail.com</div>

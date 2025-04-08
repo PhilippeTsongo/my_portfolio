@@ -3,10 +3,10 @@
         <div class="md:grid grid-cols-3 gap-24 w-full">
             <div class="">
                 <h2 class="font-bold pt-5 md:pt-0">About</h2>
-                <p class="mt-10 text-gray-400">I am a Full-stack Software Engineer with almost 4 years of experience building, implementing and deploying 
+                <p class="mt-10 text-gray-400">I am a Full-stack Software Engineer with 4+ of experience building, implementing and deploying 
                     robust web applications,
                     I have contributed to the development of successful projects as backend and frontend developer using various programming
-                    languages such as Python, Php, and javascript and frameworks such as React js, Vue js, Django, Laravel, and node js.
+                    languages such as Python, Php, Java, and Javascript and frameworks such as React js, Vue js, Django, Laravel, Spring Boot and Nest js.
                 </p>
             </div>
             <div class="mt-10 md:mt-0">
@@ -54,7 +54,7 @@
 
     </div>
     <div>
-        <p class="mt-5 text-center py-5 pb-10 bg-white text-gray-600">Copy right 2024 Philippe tsongo Tahakava</p>
+        <p class="mt-5 text-center py-5 pb-10 bg-white text-gray-600">Copy right 2024 Philippe Tahakava Tsongo</p>
     </div>
 </template>
 

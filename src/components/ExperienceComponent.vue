@@ -65,7 +65,7 @@
                                         <div class="min-w-0 flex-1 py-0">
                                             <div class="text-md text-gray-500">
                                                 <div>
-                                                    <a href="#" class="font-medium text-gray-900 mr-2">Boulot Man Engineering Rwanda Kigali</a>
+                                                    <a href="#" class="font-medium text-gray-900 mr-2">Boulot Man Engineering</a>
 
                                                     <a href="#"
                                                         class="my-0.5 relative inline-flex items-center bg-white rounded-full border border-gray-300 px-3 py-0.5 text-sm">
@@ -77,7 +77,7 @@
                                                         <div class="ml-3.5 font-medium text-gray-900">Backend Developer (Python - Django)</div>
                                                     </a>
                                                 </div>
-                                                <span class="whitespace-nowrap text-sm">Juin 2024 - Now</span>
+                                                <span class="whitespace-nowrap text-sm"><span class="text-sm text-yellow-500"> Rwanda Kigali</span>  Jun 2024 - Now</span>
                                             </div>
                                             <div class="mt-2 text-gray-700">
                                                 <p>
@@ -88,6 +88,49 @@
                                                     of security. Currently, I'm working on the "Made in Africa" project, an e-commerce system aimed at supporting local 
                                                     products.
                                                 </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li>
+                                <div class="relative pb-8">
+                                    <span class="absolute top-5 left-5 -ml-px h-full w-0.5 bg-gray-200"
+                                        aria-hidden="true"></span>
+                                    <div class="relative flex items-start space-x-3">
+                                        <div>
+                                            <div class="relative px-1">
+                                                <div
+                                                    class="h-8 w-8 bg-yellow-500 rounded-full ring-8 ring-white flex items-center justify-center">
+                                                    <svg class="text-white h-5 w-5" xmlns="http://www.w3.org/2000/svg"
+                                                        fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                                        <path stroke-linecap="round" stroke-linejoin="round"
+                                                            stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+                                                    </svg>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="min-w-0 flex-1 py-0">
+                                            <div class="text-md text-gray-500">
+                                                <div>
+                                                    <a href="#" class="font-medium text-gray-900 mr-2">Evolu Data </a>
+
+                                                    <a href="#"
+                                                        class="my-0.5 relative inline-flex items-center bg-white rounded-full border border-gray-300 px-3 py-0.5 text-sm">
+                                                        <div
+                                                            class="absolute flex-shrink-0 flex items-center justify-center">
+                                                            <span class="h-1.5 w-1.5 rounded-full bg-yellow-500"
+                                                                aria-hidden="true"></span>
+                                                        </div>
+                                                        <div class="ml-3.5 font-medium text-gray-900">Backend Developer (Software Developer)</div>
+                                                    </a>
+                                                </div>
+                                                <span class="whitespace-nowrap text-sm"><span class="text-sm text-yellow-500">Canada Montréal</span> Jan 2023 - May 2024</span>
+                                            </div>
+                                            <div class="mt-2 text-gray-700">
+                                                <p>
+                                                    As a remote freelance contributor, I worked on Tiki, one of the most feature-rich Free/Libre/Open Source web application platforms. I helped enhance its powerful no-code/low-code framework, making it more flexible and accessible for non-technical users. Collaborating with a global open-source community, I contributed to building scalable and user-friendly solutions that align with Tiki’s mission of providing a robust, all-in-one web platform.                                                </p>
                                             </div>
                                         </div>
                                     </div>
@@ -114,7 +157,7 @@
                                         <div class="min-w-0 flex-1 py-0">
                                             <div class="text-md text-gray-500">
                                                 <div>
-                                                    <a href="#" class="font-medium text-gray-900 mr-2">CNS Incorporation Rwanda Kigali</a>
+                                                    <a href="#" class="font-medium text-gray-900 mr-2">CNS Incorporation</a>
 
                                                     <a href="#"
                                                         class="my-0.5 relative inline-flex items-center bg-white rounded-full border border-gray-300 px-3 py-0.5 text-sm">
@@ -123,10 +166,10 @@
                                                             <span class="h-1.5 w-1.5 rounded-full bg-gray-500"
                                                                 aria-hidden="true"></span>
                                                         </div>
-                                                        <div class="ml-3.5 font-medium text-gray-900">Fullstack Developer</div>
+                                                        <div class="ml-3.5 font-medium text-gray-900">Full-stack Developer</div>
                                                     </a>
                                                 </div>
-                                                <span class="whitespace-nowrap text-sm">November 2022 - Now</span>
+                                                <span class="whitespace-nowrap text-sm"><span class="text-sm text-yellow-500"> Rwanda Kigali</span> Nov 2022 - Now</span>
                                             </div>
                                             <div class="mt-2 text-gray-700">
                                                 <p>
@@ -162,7 +205,7 @@
                                         <div class="min-w-0 flex-1 py-0">
                                             <div class="text-md text-gray-500">
                                                 <div>
-                                                    <a href="#" class="font-medium text-gray-900 mr-2">Kanabe Inc DRC – Goma</a>
+                                                    <a href="#" class="font-medium text-gray-900 mr-2">Kanabe Inc</a>
 
                                                     <a href="#"
                                                         class="my-0.5 relative inline-flex items-center bg-white rounded-full border border-gray-300 px-3 py-0.5 text-sm">
@@ -171,10 +214,10 @@
                                                             <span class="h-1.5 w-1.5 rounded-full bg-blue-500"
                                                                 aria-hidden="true"></span>
                                                         </div>
-                                                        <div class="ml-3.5 font-medium text-gray-900">Fullstack Developer</div>
+                                                        <div class="ml-3.5 font-medium text-gray-900">Full-stack Developer</div>
                                                     </a>
                                                 </div>
-                                                <span class="whitespace-nowrap text-sm">October, 2022 – February 2023</span>
+                                                <span class="whitespace-nowrap text-sm"><span class="text-sm text-yellow-500"> DRC – Goma</span>  Oct, 2022 – Feb 2023</span>
                                             </div>
                                             <div class="mt-2 text-gray-700">
                                                 <p>
@@ -213,7 +256,7 @@
                                         <div class="min-w-0 flex-1 py-0">
                                             <div class="text-md text-gray-500">
                                                 <div>
-                                                    <a href="#" class="font-medium text-gray-900 mr-2">Solvit Africa Training Rwanda Kigali</a>
+                                                    <a href="#" class="font-medium text-gray-900 mr-2">Solvit Africa Training </a>
 
                                                     <a href="#"
                                                         class="my-0.5 relative inline-flex items-center bg-white rounded-full border border-gray-300 px-3 py-0.5 text-sm">
@@ -225,15 +268,13 @@
                                                         <div class="ml-3.5 font-medium text-gray-900">Backend Developer</div>
                                                     </a>
                                                 </div>
-                                                <span class="whitespace-nowrap text-sm">May 2022 – September, 2022</span>
+                                                <span class="whitespace-nowrap text-sm"><span class="text-sm text-yellow-500"> Rwanda Kigali </span>  May 2022 – Sept, 2022</span>
                                             </div>
                                             <div class="mt-2 text-gray-700">
-                                                <p>
-                                                    I dedicated myself to expanding my knowledge of the Php laravel framework. During this period, I actively participated as a
+                                                <p>I dedicated myself to expanding my knowledge of the Php laravel framework. During this period, I actively participated as a
                                                     backend developer in the development of two projects. Working within a collaborative team of three backend developers, I made
                                                     significant contributions to the success of these projects. This experience allowed me to further refine my skills in Php laravel
-                                                    development and strengthened my ability to work effectively as part of a team.
-                                                </p>
+                                                    development and strengthened my ability to work effectively as part of a team.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -272,7 +313,7 @@
                                                         <div class="ml-3.5 font-medium text-gray-900">Backend Developer (Php & Laravel)</div>
                                                     </a>
                                                 </div>
-                                                <span class="whitespace-nowrap text-sm">Rwanda-Kigali – January 2022 - February 2022.</span>
+                                                <span class="whitespace-nowrap text-sm"><span class="text-sm  text-yellow-500"> Rwanda-Kigali </span>  January 2022 - Apr 2022.</span>
                                             </div>
                                             <div class="mt-2 text-gray-700">
                                                 <p>
@@ -285,7 +326,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <div class="relative pb-8">
                                     <span class="absolute top-5 left-5 -ml-px h-full w-0.5 bg-gray-200"
                                         aria-hidden="true"></span>
@@ -305,7 +346,7 @@
                                         <div class="min-w-0 flex-1 py-0">
                                             <div class="text-md text-gray-500">
                                                 <div>
-                                                    <a href="#" class="font-medium text-gray-900 mr-2">Ismgl, Democratic Republic of Congo - Goma</a>
+                                                    <a href="#" class="font-medium text-gray-900 mr-2">Ismgl</a>
 
                                                     <a href="#"
                                                         class="my-0.5 relative inline-flex items-center bg-white rounded-full border border-gray-300 px-3 py-0.5 text-sm">
@@ -317,7 +358,7 @@
                                                         <div class="ml-3.5 font-medium text-gray-900">Full stack Developer</div>
                                                     </a>
                                                 </div>
-                                                <span class="whitespace-nowrap text-sm">June 2020 - December 2021</span>
+                                                <span class="whitespace-nowrap text-sm"><span class="text-sm  text-yellow-500"> DRC - Goma </span>  Jun 2020 - Dec 2021</span>
                                             </div>
                                             <div class="mt-2 text-gray-700">
                                                 <p>
@@ -331,7 +372,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </li>
+                            </li> -->
                         </ul>
                     </div>
                 </div>

@@ -1,6 +1,6 @@
 <template>
 
-    <div
+    <!-- <div
         class="px-5 md:px-24 pt-24 bg-white pb-20 ransition-opacity duration-1000 ease-in-out transform translate-y-4 opacity-0 animate-fadeIn">
 
                 <div class="relative h-24 text-center w-full z-10">
@@ -111,7 +111,7 @@
 
 
 
-    </div>
+    </div> -->
 </template>
 
 <script>
