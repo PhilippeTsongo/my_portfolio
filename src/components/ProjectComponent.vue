@@ -37,7 +37,7 @@
                 </div>
             </div>
 
-            <div class="py-4 px-7 bg-black rounded-md  border-l-4 border-yellow-500 hover:border-l-4 hover:border-[black]">
+            <div class="mt-5 md:mt-0 py-4 px-7 bg-black rounded-md  border-l-4 border-yellow-500 hover:border-l-4 hover:border-[black]">
                 <div class="flex justify-between items-center">
                     <h2 class="font-bold text-white mt-2 border-b-2 border-[black] pb-5 hover:text-yellow-500 hover:border-b-2 hover:border-yellow-500 hover:cursor-pointer">Le Continent Restaurant</h2>
                     <img src="lecontinent.png" class="bg-white p-1 rounded-full w-8 h-8">
@@ -63,7 +63,7 @@
                 </div>
             </div>
             
-            <div class="py-4 px-7 bg-black rounded-md  border-l-4 border-yellow-500 hover:border-l-4 hover:border-[black]">
+            <div class="mt-5 md:mt-0 py-4 px-7 bg-black rounded-md  border-l-4 border-yellow-500 hover:border-l-4 hover:border-[black]">
                 <div class="flex justify-between items-center">
                     <h2 class="font-bold text-white mt-2 border-b-2 border-[black] pb-5 hover:text-yellow-500 hover:border-b-2 hover:border-yellow-500 hover:cursor-pointer">School Management System</h2>
                     <img src="sms.jpg" class="rounded-full w-8 h-8">
