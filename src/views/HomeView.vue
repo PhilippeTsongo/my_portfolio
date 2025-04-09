@@ -13,9 +13,9 @@
                     <div class="bg-yellow-500 text-white px-3 py-2 rounded-full w-36 text-center">
                         <a ><font-awesome-icon icon="code"/> Hire me</a>
                     </div>
-                    <!-- <div class="border border-yellow-500 text-yellow-500 px-3 py-2 rounded-full w-36 text-center ml-2">
+                    <div class="border border-yellow-500 text-yellow-500 px-3 py-2 rounded-full w-36 text-center ml-2">
                         <router-link :to="{name: 'projects'}" ><font-awesome-icon icon="code"/> Projects</router-link>
-                    </div> -->
+                    </div>
                 </div>
             </div>
             <div class="w-full md:w-2/4 mt-14 md:0 transition-opacity duration-1000 ease-in-out transform translate-y-4 opacity-0 animate-fadeIn"> 

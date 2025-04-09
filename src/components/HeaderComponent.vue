@@ -5,7 +5,7 @@
             
             <div class="hidden md:flex md:justify-between md:gap-14">
                 <div>  <router-link :to="{name: 'home'}" class="font-bold hover:underline hover:text-yellow-500 transition duration-700 ease-in transform hover:scale-105"> Home</router-link> </div>
-                <!-- <div>  <router-link :to="{name: 'projects'}" class="font-bold hover:underline hover:text-yellow-500 transition duration-700 ease-in transform hover:scale-105"> Projects</router-link> </div> -->
+                <div>  <router-link :to="{name: 'projects'}" class="font-bold hover:underline hover:text-yellow-500 transition duration-700 ease-in transform hover:scale-105"> Projects</router-link> </div>
                 <div>  <router-link :to="{name: 'skills'}" class="font-bold hover:underline hover:text-yellow-500 transition duration-700 ease-in transform hover:scale-105"> Skills</router-link> </div>
                 <div>  <router-link :to="{name: 'contact'}" class="font-bold hover:underline hover:text-yellow-500 transition duration-700 ease-in transform hover:scale-105"> Contact</router-link> </div>
                 <div>  <router-link :to="{name: 'about'}" class="font-bold hover:underline hover:text-yellow-500 transition duration-700 ease-in transform hover:scale-105"> About</router-link> </div>

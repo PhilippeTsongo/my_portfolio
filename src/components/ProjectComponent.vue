@@ -1,6 +1,6 @@
 <template>
     
-    <div class="px-5 mb-20 transition-opacity duration-2000 ease-out transform translate-y-4 opacity-0 animate-fadeIn">
+    <div class="px-3 md:px-10 mb-20 transition-opacity duration-2000 ease-out transform translate-y-4 opacity-0 animate-fadeIn">
       
         <div class="text-center w-full mt-10">
             <div class="relative h-24 text-center w-full z-10">
