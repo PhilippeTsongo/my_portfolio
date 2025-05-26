@@ -1,7 +1,7 @@
 <template>
     <div class="fixed w-full z-50">
         <div class="w-full flex justify-between bg-black text-white py-8 px-8 md:px-24">
-            <div class="font-bold text-2xl uppercase">Philippe <span class="hidden md:inline ml-2">Tahakava Tsongo</span></div>
+            <div class="font-bold text-2xl uppercase"><router-link to="/"> Philippe <span class="hidden md:inline ml-2">Tahakava Tsongo</span></router-link></div>
             
             <div class="hidden md:flex md:justify-between md:gap-14">
                 <div>  <router-link :to="{name: 'home'}" class="font-bold hover:underline hover:text-yellow-500 transition duration-700 ease-in transform hover:scale-105"> Home</router-link> </div>
