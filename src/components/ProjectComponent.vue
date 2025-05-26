@@ -13,6 +13,26 @@
             
             <div class="py-4 px-7 bg-black rounded-md  border-l-4 border-yellow-500 hover:border-l-4 hover:border-[black]">
                 <div class="flex justify-between items-center">
+                    <h2 class="font-bold text-white mt-2 border-b-2 border-[black] pb-5 hover:text-yellow-500 hover:border-b-2 hover:border-yellow-500 hover:cursor-pointer">Kazi</h2>
+                    <img src="kazi.png" class="bg-white p-1 rounded-full w-8 h-8">
+                </div>
+                <div class="flex justify-between">
+                    <a target="blank" href="https://kazi-web-one.vercel.app/.app" class="text-yellow-500 underline">
+                        https://kazi-web-one.vercel.app/</a>
+                    <font-awesome-icon class="text-yellow-500 mt-1" icon="link"/>
+                </div>
+                <div class="grid grid-cols-3 gap-2 mt-5">
+                    <div class="flex justify-center items-center gap-1 text- bg-white rounded-full px-1 text-xs">
+                        <img src='images/skills/reactjs.png' class="w-5 h-5"/> React.js
+                    </div>
+                    <div class="flex justify-center items-center gap-1 text- bg-white rounded-full px-1 text-xs">
+                        <img src='images/skills/tailwindcss.png' class="w-5 h-5"/> Tailwind css
+                    </div>
+                </div>
+            </div>
+
+            <div class="py-4 px-7 bg-black rounded-md  border-l-4 border-yellow-500 hover:border-l-4 hover:border-[black]">
+                <div class="flex justify-between items-center">
                     <h2 class="font-bold text-white mt-2 border-b-2 border-[black] pb-5 hover:text-yellow-500 hover:border-b-2 hover:border-yellow-500 hover:cursor-pointer">Le Continent Platform</h2>
                     <img src="lecontinent.png" class="bg-white p-1 rounded-full w-8 h-8">
                 </div>
@@ -95,7 +115,7 @@
                     <img src="pizza.png/" class="rounded-full bg-white p-1 w-8 h-8">
                 </div>
                 <div class="flex justify-between ">
-                    <a target="blank" href="https://trip-logger-jet.vercel.app" class="text-yellow-500 underline">
+                    <a target="blank" href="https://cheef-frontend.vercel.app/" class="text-yellow-500 underline">
                         https://cheef-frontend.vercel.app</a>
                     <font-awesome-icon class="text-yellow-500 mt-1" icon="link"/>    
                 </div>

@@ -8,12 +8,12 @@
                 <h1 class="absolute z-10 text-center w-full mt-2 text-[#878684] font-bold text-6xl">Skills</h1>
             </div>
 
-            <p class="mt-10 text-gray-700">
+            <div class="mt-10 text-gray-700">
                 Highly skilled Full Stack Developer with enough experience to design and implement robust web applications
                 <div class="text-yellow-500">
                     Php, Php Laravel, Python, Django, Java, Spring Boot, JavaScript, Node js, Vue js, React js, Tailwind css, Css, Html, Bootstrap, MVC, Database architecture(PostgreSql, MySql), Api design, Api integration and testing, Git, AWS 
                 </div>
-            </p>
+            </div>
         </div>
 
         <div class="md:grid md:grid-cols-3 md:justify-between gap-5 mt-14">
