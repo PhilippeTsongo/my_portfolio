@@ -17,7 +17,7 @@
                     <img src="kazi.png" class="bg-white p-1 rounded-full w-8 h-8">
                 </div>
                 <div class="flex justify-between">
-                    <a target="blank" href="https://kazi-web-one.vercel.app/.app" class="text-yellow-500 underline">
+                    <a target="blank" href="https://kazi-web-one.vercel.app" class="text-yellow-500 underline">
                         https://kazi-web-one.vercel.app/</a>
                     <font-awesome-icon class="text-yellow-500 mt-1" icon="link"/>
                 </div>
